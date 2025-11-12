@@ -11,7 +11,6 @@ The purpose of this project was to test agentic tool calling based on the task a
 - [▶️ Running Locally](#️-running-locally)
 - [🧪 Testing](#-testing)
 - [📌 Project Status](#-project-status)
-- [🗺️ Future Roadmap](#-future-roadmap)
 
 ## 💡 About The Project
 
